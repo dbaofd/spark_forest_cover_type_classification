@@ -1,30 +1,30 @@
 ++++++++++++++++++++File List++++++++++++++++++++
-Dong_Bao_Forest_Cover_Data_Visualization.ipynb
-Dong_Bao_Forest_Cover_Decision_Tree.ipynb
-Dong_Bao_Forest_Cover_Decision_Tree_Cross_Validation.ipynb
-Dong_Bao_Forest_Cover_Logistic_Regression.ipynb
-Dong_Bao_Forest_Cover_Multilayer_Perceptron.ipynb
+Forest_Cover_Data_Visualization.ipynb
+Forest_Cover_Decision_Tree.ipynb
+Forest_Cover_Decision_Tree_Cross_Validation.ipynb
+Forest_Cover_Logistic_Regression.ipynb
+Forest_Cover_Multilayer_Perceptron.ipynb
 plot_tool.py
 load_dataset.py
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Dong_Bao_Forest_Cover_Data_Visualization.ipynb
+Forest_Cover_Data_Visualization.ipynb
 Detail:
 In this file you can perform data visualization.
 You can also visualize the data by using pca1 and pca2.
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Dong_Bao_Forest_Cover_Decision_Tree.ipynb
-Dong_Bao_Forest_Cover_Decision_Tree_Cross_Validation.ipynb
+Forest_Cover_Decision_Tree.ipynb
+Forest_Cover_Decision_Tree_Cross_Validation.ipynb
 Detail:
 These two file almost the same. The only difference is the second has the cross validation
 line chart. I did the 10 fold cross validation.
 You can use these two files to train and evaluate decision tree model.
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Dong_Bao_Forest_Cover_Logistic_Regression.ipynb
+Forest_Cover_Logistic_Regression.ipynb
 This file is about training logistic regression model to do classification on the dataset.
 You can train and evaluate the model.
 The performance is similar with decision tree.
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Dong_Bao_Forest_Cover_Multilayer_Perceptron.ipynb
+Forest_Cover_Multilayer_Perceptron.ipynb
 This file is about training multilayer perceptron to do classification on the dataset.
 You can train and evaluate the model.
 The performance is worst amony the three methods.
